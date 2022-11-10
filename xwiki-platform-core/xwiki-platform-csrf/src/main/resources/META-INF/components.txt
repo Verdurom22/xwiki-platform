@@ -1,3 +1,0 @@
-org.xwiki.csrf.internal.DefaultCSRFToken
-org.xwiki.csrf.internal.DefaultCSRFTokenConfiguration
-org.xwiki.csrf.script.CSRFTokenScriptService

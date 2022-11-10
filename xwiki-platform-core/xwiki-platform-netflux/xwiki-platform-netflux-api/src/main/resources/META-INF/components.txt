@@ -1,2 +1,0 @@
-org.xwiki.netflux.internal.DefaultEntityChannelStore
-org.xwiki.netflux.script.NetfluxScriptService

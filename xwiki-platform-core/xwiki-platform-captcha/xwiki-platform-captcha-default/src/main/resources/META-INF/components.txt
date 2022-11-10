@@ -1,2 +1,0 @@
-org.xwiki.captcha.internal.CaptchaConfigurationSource
-org.xwiki.captcha.internal.DefaultCaptchaConfiguration

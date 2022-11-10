@@ -1,3 +1,0 @@
-org.xwiki.localization.internal.DefaultContextualLocalizationManager
-org.xwiki.localization.internal.DefaultTranslationBundleContext
-org.xwiki.localization.internal.DefaultLocalizationManager

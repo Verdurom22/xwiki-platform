@@ -1,2 +1,0 @@
-org.xwiki.url.internal.reference.ReferenceExtendedURLResourceTypeResolver
-org.xwiki.url.internal.reference.EntityResourceReferenceResolver

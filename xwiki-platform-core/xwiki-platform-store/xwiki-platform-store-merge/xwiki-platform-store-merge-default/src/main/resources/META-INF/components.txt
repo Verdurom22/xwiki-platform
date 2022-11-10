@@ -1,3 +1,0 @@
-org.xwiki.store.merge.MergeScriptService
-org.xwiki.store.merge.internal.DefaultMergeConflictDecisionsManager
-org.xwiki.store.merge.internal.DefaultMergeManager

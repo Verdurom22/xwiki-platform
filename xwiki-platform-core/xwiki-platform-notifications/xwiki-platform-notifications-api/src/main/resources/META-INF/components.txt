@@ -1,3 +1,0 @@
-org.xwiki.notifications.internal.DefaultCompositeEventStatusManager
-org.xwiki.notifications.internal.DefaultNotificationConfiguration
-org.xwiki.notifications.internal.SimilarityCalculator

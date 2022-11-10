@@ -1,2 +1,0 @@
-org.xwiki.rendering.internal.macro.include.IncludeMacro
-org.xwiki.rendering.internal.macro.include.IncludeMacroRefactoring

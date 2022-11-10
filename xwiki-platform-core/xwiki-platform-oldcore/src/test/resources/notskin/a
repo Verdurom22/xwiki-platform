@@ -1,1 +1,0 @@
-Test resource for ClassLoaderSkinTest, used to test that accessing resources outside the skin fails with a warning.

@@ -1,1 +1,0 @@
-1:org.xwiki.test.checker.internal.ProgrammingRightCheckerAuthorizationManager

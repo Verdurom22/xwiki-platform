@@ -1,2 +1,0 @@
-org.xwiki.rendering.internal.macro.display.DisplayMacro
-org.xwiki.rendering.internal.macro.display.DisplayMacroRefactoring

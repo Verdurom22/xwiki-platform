@@ -1,2 +1,0 @@
-com.xpn.xwiki.plugin.feed.internal.AggregatorURLClassDocumentInitializer
-com.xpn.xwiki.plugin.feed.internal.FeedEntryClassDocumentInitializer

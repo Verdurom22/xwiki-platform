@@ -1,3 +1,0 @@
-org.xwiki.url.internal.container.ContextAndActionURLNormalizer
-org.xwiki.url.internal.container.ContextExtendedURLURLNormalizer
-org.xwiki.url.internal.container.URLURLNormalizer

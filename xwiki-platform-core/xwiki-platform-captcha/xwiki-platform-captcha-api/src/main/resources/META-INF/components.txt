@@ -1,2 +1,0 @@
-org.xwiki.captcha.script.CaptchaScriptService
-org.xwiki.captcha.script.CaptchaScriptSafeProvider

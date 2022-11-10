@@ -1,2 +1,0 @@
-org.xwiki.template.internal.macro.TemplateMacro
-org.xwiki.template.script.TemplateScriptService

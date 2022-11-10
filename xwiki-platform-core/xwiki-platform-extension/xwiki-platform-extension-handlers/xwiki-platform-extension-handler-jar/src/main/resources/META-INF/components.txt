@@ -1,2 +1,0 @@
-org.xwiki.extension.jar.internal.validator.JarExtensionValidator
-org.xwiki.extension.jar.internal.validator.WebjarExtensionValidator

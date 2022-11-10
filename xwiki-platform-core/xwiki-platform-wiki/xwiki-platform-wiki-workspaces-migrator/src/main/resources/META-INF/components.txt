@@ -1,3 +1,0 @@
-org.xwiki.wiki.workspacesmigrator.internal.DefaultDocumentRestorerFromAttachedXAR
-org.xwiki.wiki.workspacesmigrator.internal.WorkspacesMigration
-org.xwiki.wiki.workspacesmigrator.internal.DefaultSearchSuggestCustomConfigDeleter

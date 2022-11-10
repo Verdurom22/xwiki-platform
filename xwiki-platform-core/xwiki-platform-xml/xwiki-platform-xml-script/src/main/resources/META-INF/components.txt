@@ -1,1 +1,0 @@
-org.xwiki.xml.script.XMLScriptService

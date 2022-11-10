@@ -1,2 +1,0 @@
-org.xwiki.like.internal.LikeEventDescriptor
-org.xwiki.like.internal.LikeEventListener

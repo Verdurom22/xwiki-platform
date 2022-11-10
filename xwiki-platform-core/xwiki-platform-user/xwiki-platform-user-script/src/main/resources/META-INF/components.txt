@@ -1,2 +1,0 @@
-org.xwiki.user.script.GroupScriptService
-org.xwiki.user.script.UserScriptService

@@ -1,1 +1,0 @@
-900:org.xwiki.url.internal.standard.LegacyStandardURLConfiguration
